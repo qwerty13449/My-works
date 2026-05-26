@@ -1,1 +1,0 @@
-The implementation of an analog of a modern messenger (svelte + sass).
