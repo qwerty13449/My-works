@@ -1,3 +1,3 @@
 # My-works
 
-This is a repository, an example of how my backend and interface work.
+This is a repository, examples of my work.
